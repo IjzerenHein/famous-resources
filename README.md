@@ -7,6 +7,7 @@ Unofficial list of famo.us resources.
 
 * [famo.us](http://famo.us/)
 * [Famo.us/Angular](http://famo.us/integrations/angular) (Famo.us, meet AngularJS)
+* [@befamous](https://twitter.com/befamous) (Famo.us on twitter)
 
 ##### Articles
 
@@ -44,6 +45,7 @@ Unofficial list of famo.us resources.
 
 ##### Diagnostics
 
+* [Famo.us inspector Chrome-extension](https://github.com/FamousInternal/famous-inspector) (A chrome extension for manipulating the render tree)
 * [Render Tree Visualisation](https://github.com/FamousInternal/Render-Tree-Visualization) (Visualization module for the Famo.us render tree and the event pipeline)
 * [LagoMeter](https://github.com/IjzerenHein/famous-lagometer) (Shows animation-frame exection graph)
 
